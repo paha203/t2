@@ -1,2 +1,2 @@
-t2
-==
+如果你是使用git作为版本控制工具，那么github基本上是必备的网站，github可以托管你的git版本库，作用类似于SourceForge和Google Code，github的界面是非常人性化的，由于git本身会比svn来的复杂，所以在操作上github会比SourceForge来的难点。所以就有了今天的这篇教程。
+跳过账户注册阶段。
